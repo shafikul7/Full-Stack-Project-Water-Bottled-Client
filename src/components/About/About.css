@@ -1,0 +1,26 @@
+/** @format */
+
+/* .about-part {
+  margin: 170px 0 170px 0;
+}
+@media screen and (max-width: 768px) {
+  .about-part {
+    margin: 0 0 0 0;
+    margin-top: -130px;
+    margin-bottom: 50px;
+  }
+} */
+
+.about_content h3 {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.about_content p {
+  font-size: 14px;
+  color: gray;
+}
+
+.head-color {
+  color: rgb(11, 34, 236);
+}

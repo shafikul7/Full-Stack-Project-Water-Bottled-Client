@@ -1,0 +1,30 @@
+/** @format */
+
+.feedback-details-card {
+  box-shadow: 2px 2px 2px whitesmoke, -2px -2px 2px whitesmoke;
+  border-radius: 8px;
+}
+@media only screen and (max-width: 767px) {
+  .feedback-top {
+    justify-content: center;
+  }
+  .feedback-description {
+    padding: 0 10%;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .feedback-top {
+    justify-content: normal;
+  }
+  .feedback-top img {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .reviews_content h5 {
+    font-size: 17px !important;
+    margin-bottom: 0px;
+  }
+  .feedback-description {
+    padding: 0 !important;
+  }
+}
