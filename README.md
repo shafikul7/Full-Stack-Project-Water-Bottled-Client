@@ -10,16 +10,10 @@
 
 ## Usage Purpose
 
--A simple stainless steel bottle and standard lid: Hydro Flask Standard Mouth (21 ounces)
+●	An E-Commerce concept with Firebase Email-Password login.
+●	Two different dashboards for user and admin.
+●	Admin can edit-cancel order, add product, update order status.
+●	Users can give reviews, make orders and cancel orders.
 
--Our favorite bottle for the car: Camelbak Eddy+ (25 ounces)
+  ## Technology: React.js, Node.js, Express.js, Mongo DB, Firebase Authentication, Material UI, React Router. 
 
--Our favorite tapered design: Simple Modern Wave (17 ounces)
-
--The best glass water bottle: Purifyou Premium (22 ounces)
-
--The best plastic water bottle: Thermos Hydration Bottle (24 ounces)
-
--An ideal air travel companion: CamelBak Podium (21 ounces)
-
--An upgrade pick: Purist Mover with Union Cap (18 ounces)
