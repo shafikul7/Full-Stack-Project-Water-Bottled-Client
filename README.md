@@ -11,7 +11,7 @@
 ## Usage Purpose
 
 ●	An E-Commerce concept with Firebase Email-Password login.
-●	Two different dashboards for user and admin.
+●	Two different for user dashboards and admin dashboards.
 ●	Admin can edit-cancel order, add product, update order status.
 ●	Users can give reviews, make orders and cancel orders.
 
