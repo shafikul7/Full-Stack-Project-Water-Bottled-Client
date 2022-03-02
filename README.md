@@ -15,5 +15,5 @@
 ●	Admin can edit-cancel order, add product, update order status.
 ●	Users can give reviews, make orders and cancel orders.
 
-  ## Technology: React.js, Node.js, Express.js, Mongo DB, Firebase Authentication, Material UI, React Router. 
+  ## Technology: ReactJs, NodeJs, Express.js, Mongo DB, Firebase Authentication, Material UI, React Router 5. 
 
